@@ -12,6 +12,8 @@ dist
 dist-ssr
 dev-dist
 *.local
+.env
+pnpm-lock.yaml
 
 # Editor directories and files
 .vscode/*
